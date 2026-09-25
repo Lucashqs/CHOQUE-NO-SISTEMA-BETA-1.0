@@ -1,3 +1,4 @@
+[app]
 title = Choque no Sistema
 package.name = choquenosistema
 package.domain = org.alencargamestudio
